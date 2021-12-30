@@ -347,6 +347,7 @@ node_disk_io_now{device="mmcblk0p1"} 0
 node_disk_io_now{device="mmcblk0p2"} 0
 node_disk_io_now{device="nvme0n1"} 0
 node_disk_io_now{device="sda"} 0
+node_disk_io_now{device="sdb"} 0
 node_disk_io_now{device="sr0"} 0
 node_disk_io_now{device="vda"} 0
 # HELP node_disk_io_time_ms Total Milliseconds spent doing I/Os.
